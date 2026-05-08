@@ -1,8 +1,10 @@
 # WebBTGadgetBridge
 I didn't want the Q-Ring app and Gadget Bridge isn't in Play, so I set this up so I could get telemetry out of a cheap Colmi fitness ring.
 
-- You can use it here: https://rinc3w1nd.github.io/WebBTGadgetBridge/
+- You can use it here: https://rinc3w1nd.github.io/WebBTGadgetBridge/, or
 - You can download it to a device and use it there in a Chrome-based browser with Web Bluetooth enabled.
+
+**NONE OF YOUR RING'S DATA IS SENT ANYWHERE. IT ALL STAYS LOCALLY IN YOUR BROWSER.**
 
 If you use the HTML direct from your device you might not be able to maintain a persisted state and you are more likely to face cache eviction.
 
